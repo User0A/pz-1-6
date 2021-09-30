@@ -1,0 +1,145 @@
+body{
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+.wrapper{
+    margin: 0;
+    padding: 0;
+}
+.blue{
+    float: left;
+    background-color: blue;
+    width: 75.6%;
+    height: 35px;
+    border: 1px white solid;
+    margin-bottom: 3px;
+}
+.gray{
+    float: right;
+    background-color: darkgray;
+    width: 22%;
+    height: 115px;
+    border: 1px white solid;
+    margin-left: 3px;
+}
+.aqua{
+    float: left;
+    clear: left;
+    background-color: aqua;
+    width: 15%;
+    height: 35px;
+    border: 1px white solid;
+}
+.maroon{
+    float: left;
+    background-color: maroon;
+    width: 15%;
+    height: 35px;
+    border: 1px white solid;
+    margin-left: 3px;
+}
+.yellow{
+    float: right;
+    background-color: yellow;
+    width: 42.4%;
+    height: 75px;
+    border: 1px white solid;
+    margin-left: 3px;
+}
+.darkblue{
+    float: left;
+    background-color: darkblue;
+    width: 31.6%;
+    height: 35px;
+    border: 1px white solid;
+    margin-top: 3px
+}
+.orange{
+    float: left;
+    clear: left;
+    background-color: orange;
+    width: 100%;
+    height: 35px;
+    margin-top: 3px;
+    border: 1px white solid;
+}
+
+
+
+
+
+
+/*
+.wrapper{
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+.above_bot{
+ }
+.left{
+ }
+.left_top{
+    float: left;
+    background-color: dodgerblue;
+    width: 20px;
+    height: 20px;
+    border-bottom: 1px white solid;
+    margin-bottom: 3px;
+}
+.left_bot{
+}
+.left_bot_left{
+}
+.left_bot_left_top{
+ }
+.left_bot_left_top_left{
+    float: left;
+    clear: left;
+    background-color: aqua;
+    width: 20px;
+    height: 20px;
+    border-right: 1px white solid;
+}
+.left_bot_left_top_right{
+    float: left;
+    background-color: maroon;
+    width: 20px;
+    height: 20px;
+    margin-left: 3px;
+}
+.left_bot_left_bot{
+    float: left;
+    background-color: cadetblue;
+    width: 20px;
+    height: 20px;
+    border-top: 1px white solid;
+}
+.left_bot_right{
+    float: left;
+    width: 20px;
+    height: 20px;
+    background-color: yellow;
+    border-left: 1px white solid;
+    margin-left: 3px;
+}
+.right{
+    float: left;
+    background-color: darkgray;
+    width: 20px;
+    height: 20px;
+    border-top: 1px white solid;
+    border-right: 1px white solid;
+    border-bottom: 1px white solid;
+    margin-left: 3px;
+}
+.bot{
+    float: left;
+    background-color: chocolate;
+    width: 20px;
+    height: 20px;
+    border: 1px white solid;
+    margin-top: 3px;
+}
+*/
