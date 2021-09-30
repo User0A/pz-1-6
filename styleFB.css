@@ -93,3 +93,10 @@
     border: 1px white solid;
     margin-top: 3px;
 }
+
+.button_div{
+    display: flex;
+}
+.button{
+    background-color: green;
+}
