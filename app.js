@@ -5,7 +5,7 @@ const color = require('chalk');
 app.set('view engine', 'ejs');
 app.use(express.static(__dirname+'/'));
 app.get('/', (req,res)=>{
-    res.render(__dirname+'/indexF.html');
+    res.sendFile(__dirname+'/indexF.html');
 });
 
 app.post('/', (req,res)=>{
@@ -21,7 +21,7 @@ app.post('/indexG.html', (req,res)=>{
 })
 
 let port = process.env.PORT;
-if (port==null || port== ""){
+if (port==null || port=== " "){
     port = 3000;
 }
 app.listen(port, ()=>{
