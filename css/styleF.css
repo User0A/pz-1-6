@@ -11,7 +11,7 @@ body{
     float: left;
     background-color: blue;
     width: 75.6%;
-    height: 35px;
+    height: 30%;
     border: 1px white solid;
     margin-bottom: 3px;
 }
@@ -28,14 +28,14 @@ body{
     clear: left;
     background-color: aqua;
     width: 15%;
-    height: 35px;
+    height: 30%;
     border: 1px white solid;
 }
 .maroon{
     float: left;
     background-color: maroon;
     width: 15%;
-    height: 35px;
+    height: 30%;
     border: 1px white solid;
     margin-left: 3px;
 }
@@ -43,7 +43,7 @@ body{
     float: right;
     background-color: yellow;
     width: 42.4%;
-    height: 75px;
+    height: 70%;
     border: 1px white solid;
     margin-left: 3px;
 }
@@ -51,7 +51,7 @@ body{
     float: left;
     background-color: darkblue;
     width: 31.6%;
-    height: 35px;
+    height: 30%;
     border: 1px white solid;
     margin-top: 3px
 }
@@ -60,7 +60,7 @@ body{
     clear: left;
     background-color: orange;
     width: 100%;
-    height: 35px;
+    height: 30%;
     margin-top: 3px;
     border: 1px white solid;
 }
