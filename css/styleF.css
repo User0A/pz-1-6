@@ -20,7 +20,7 @@ body{
 .gray{
     float: right;
     background-color: darkgray;
-    width: 24%;
+    width: 23.9%;
     height: 610px;
     border: 1px white solid;
     margin-left: 3px;
@@ -44,7 +44,7 @@ body{
 .yellow{
     float: right;
     background-color: yellow;
-    width: 42.9%;
+    width: 42.8%;
     height: 405px;
     border: 1px white solid;
     margin-left: 3px;
@@ -52,7 +52,7 @@ body{
 .darkblue{
     float: left;
     background-color: darkblue;
-    width: 32.4%;
+    width: 32.3%;
     height: 200px;
     border: 1px white solid;
     margin-top: 3px
