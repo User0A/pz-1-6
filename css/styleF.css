@@ -4,22 +4,24 @@ body{
     padding: 0;
 }
 .wrapper{
-    margin: 0;
-    padding: 0;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
 }
 .blue{
     float: left;
     background-color: blue;
     width: 75.6%;
-    height: 35px;
+    height: 200px;
     border: 1px white solid;
     margin-bottom: 3px;
 }
 .gray{
     float: right;
     background-color: darkgray;
-    width: 22%;
-    height: 115px;
+    width: 24%;
+    height: 610px;
     border: 1px white solid;
     margin-left: 3px;
 }
@@ -27,31 +29,31 @@ body{
     float: left;
     clear: left;
     background-color: aqua;
-    width: 15%;
-    height: 35px;
+    width: 16%;
+    height: 200px;
     border: 1px white solid;
 }
 .maroon{
     float: left;
     background-color: maroon;
-    width: 15%;
-    height: 35px;
+    width: 16%;
+    height: 200px;
     border: 1px white solid;
     margin-left: 3px;
 }
 .yellow{
     float: right;
     background-color: yellow;
-    width: 42.4%;
-    height: 75px;
+    width: 42.9%;
+    height: 405px;
     border: 1px white solid;
     margin-left: 3px;
 }
 .darkblue{
     float: left;
     background-color: darkblue;
-    width: 31.6%;
-    height: 35px;
+    width: 32.4%;
+    height: 200px;
     border: 1px white solid;
     margin-top: 3px
 }
@@ -60,7 +62,7 @@ body{
     clear: left;
     background-color: orange;
     width: 100%;
-    height: 35px;
+    height: 200px;
     margin-top: 3px;
     border: 1px white solid;
 }
